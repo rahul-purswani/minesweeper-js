@@ -1,0 +1,64 @@
+.table
+{
+    display: flex;
+    flex-wrap: wrap;
+    height: 400;
+    width: 480;
+    margin: auto;
+    background-color: silver;
+    border: 5px solid black;
+}
+.box{
+    height: 40;
+    width: 40;
+    background-color: gray;
+    background-image: none;
+    outline: 1px solid white;
+}
+.box:hover{
+    background-color: darkgray;
+}
+.bomb_show
+{
+    background-image: url(bo.png);
+    background-color: black;
+    background-attachment: scroll;
+}
+.flag
+{
+    background-image: url(flag.png);
+    background-attachment: scroll;
+}
+.number
+{
+    background-color: lightgray;
+    text-align: center;
+    font-weight: bold;
+    font-size: 20;
+    line-height: 1.9;
+}
+body
+{
+    background-image: url(bg.png);
+    background-attachment: fixed;
+}
+h1
+{
+    text-align: center;
+    font-size: 30pt;
+    color: white;
+}
+h2
+{
+    text-align: center;
+    font-size: 14pt;
+    color: white;
+    background-color: black;
+}
+h3
+{
+    text-align: center;
+    font-size: 17pt;
+    color: white;
+    background-color: black;
+}
