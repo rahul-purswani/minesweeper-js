@@ -1,6 +1,6 @@
 # Minesweeper Game-Javascript 💣
 Implementation of the Minesweeper game using HTML, CSS, and JavaScript. Minesweeper is a single-player puzzle game where the player's objective is to clear a rectangular board containing hidden "mines" or bombs without detonating any of them.<br>
-Click [here](https://rahul-purswani.github.io/minesweeper-js/) to launch the game
+<br>Click [here](https://rahul-purswani.github.io/minesweeper-js/) to launch the game
 
 ## How to Play
 - Click on a square to uncover it.
